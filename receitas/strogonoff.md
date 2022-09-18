@@ -1,6 +1,6 @@
-#Strogonoff de Frango :chicken:
+# Strogonoff de Frango :chicken:
 
-##Igredientes:
+## Igredientes:
 
 - 1KG de peito de frango
 - 1 Cebola média
@@ -11,7 +11,7 @@
 - 1 shot de conhaque
 - sal e pimenta à gosto
 
-##Modo de preparo:
+## Modo de preparo:
 
 - Cortar o frango em cubos de 5cm
 - cortar a cebola em cubinhos
